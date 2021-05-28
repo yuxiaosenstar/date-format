@@ -1,0 +1,19 @@
+{
+  "name": "@yuxiaosen/momentjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuxiaosenstar/momentjs.git"
+  },
+  "author": "yuchangchang <yuchangchang@hd123.com>",
+  "license": "MIT",
+  "description": "\"# momentjs\"",
+  "bugs": {
+    "url": "https://github.com/yuxiaosenstar/momentjs/issues"
+  },
+  "homepage": "https://github.com/yuxiaosenstar/momentjs#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
